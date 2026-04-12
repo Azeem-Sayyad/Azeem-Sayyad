@@ -1,6 +1,7 @@
 🎓 Student & Full-Stack Developer
 
 Building modern web experiences with Next.js, React, and Python. I enjoy bridging the gap between clean design and efficient backend logic. Currently focused on mastering scalable databases and cloud integration.
+
 🛠️ Tech Stack
 
     Languages: Python, JavaScript, TypeScript, PHP, SQL
