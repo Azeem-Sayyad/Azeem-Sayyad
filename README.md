@@ -1,32 +1,79 @@
-🎓 Student & Full-Stack Developer
+<div align="center">
 
-Building modern web experiences with Next.js, React, and Python. I enjoy bridging the gap between clean design and efficient backend logic. Currently focused on mastering scalable databases and cloud integration.
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=160&section=header&text=Azeem%20Sayyad&fontSize=55&fontColor=c9d1d9&fontAlignY=40&desc=Student%2C%20Intern%2C%20Full-Stack%20Developer%20%7C%20India&descSize=14&descAlignY=62&descColor=6e7681)](https://github.com/Azeem-Sayyad)
 
-🛠️ Tech Stack
+</div>
 
-    Languages: Python, JavaScript, TypeScript, PHP, SQL
+---
 
-    Frontend: Next.js, React, Flutter
+Hi, I'm Azeem — a developer who enjoys building web applications and working across the stack. I like clean code, thoughtful design, and projects that solve real problems.
 
-    Backend: FastAPI, Node.js, Django
+---
 
-    Database: Supabase, MySQL, PostgreSQL
+## Tech Stack
 
-🚀 Projects & Experience
+**Frontend**
 
-    MiniGit: A Python & MySQL-based version control replica.
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
 
-    E-Commerce: Developing custom boutique solutions using Next.js.
+**Backend & Database**
 
-    Professional: Hands-on experience with PHP and Flutter during local internships.
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791)
+![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white)
 
-📍 Based in Sangli, MH.
-📫 Open to collaboration on interesting web projects!
+**Tools & Platforms**
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayyadazeem2005@gmail.com) 
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Projects
+
+**The Iron Paradise Fitness Studio**
+
+A management system for a fitness studio/ gym made using Next.js, shadcn/ui, FastAPI, and Supabase. The system has two sides: a Trainer Dashboard for data processing/reports and a Client Portal for workout/diet interaction.
+
+`Next.js` `Shadcn/UI` `FastAPI` `Supabase` `Tremor`
+
+---
+
+**House of Fashion Boutique**
+
+A full-stack e-commerce platform for a clothing boutique based in Miraj, Maharashtra. Built with Next.js and Tailwind CSS, with a focus on clean UI and real-world usability.
+
+`Next.js` `Tailwind CSS` `PostgreSQL` `Prisma`
+
+---
+
+**Satyam Advertising**
+
+A commercial frontend site for a local advertisement company. Built with frontend-focus using Node.js, React and Tailwind.
+
+`Node.js` `Tailwind CSS` `React`
+
+---
+
+**MiniGit**
+
+A GitHub-inspired version control management system built with Flask and MySQL. Features repository management, commits, issues, stars, and activity logs — all backed by a relational database schema designed from scratch.
+
+`Flask` `MySQL` `Python`
+
+---
+
+<div align="center">
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer)](https://github.com/YOUR_USERNAME)
+
+</div>
