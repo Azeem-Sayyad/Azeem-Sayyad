@@ -70,8 +70,6 @@ A GitHub-inspired version control management system built with Flask and MySQL. 
 
 `Flask` `MySQL` `Python`
 
----
-
 <div align="center">
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer)](https://github.com/YOUR_USERNAME)
